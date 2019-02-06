@@ -1,0 +1,95 @@
+
+
+#orange{
+    color: orange;  
+}
+
+#orange:hover{
+    background-color: grey;
+    color: white;
+}
+.navbar-toggler-icon{
+    background-color: orange;
+    color: green;
+}
+
+.p-4.align-self-end{
+    font-size: 30px;
+}
+#home-section{
+    background-image: url(../images/friends.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  min-height: 900px;
+}
+.fas{
+    background-color: rgba(50,50,50,0.8);
+    border-radius: 6px;
+}
+#home-section .dark-overlay{
+    position: absolute;
+    top: 0px;
+    width: 100%;
+}
+.home-inner{
+    margin-top: 110px;
+}
+.display-4{
+    margin-left: 60px;
+    color: white;
+        
+}
+.d-flex{
+    margin-left: 10px;
+    color: white;
+}
+
+.card-body{
+   
+    background-color: rgba(50,50,50,0.8);
+    color: white;
+   
+}
+
+.form-group input{
+    border-radius: 20px;
+}
+.form-group input:hover{
+    background-color: green;
+    box-shadow: 2px 2px green;
+}
+/*::placeholder:hover{color: white;}*/
+.btn.btn-outline.btn-block{
+    border-radius: 10px;
+    height: 50px;
+    font-size: 30px;
+}
+
+.btn.btn-outline.btn-block:hover{
+    background-color: green;
+    color: white;
+    box-shadow: 2px 2px green;
+}
+
+#explore-head-section,{
+opacity: 0.8;
+}
+#explore-head-section,#create-head-section,#share-head-section {
+    color: white;
+}
+.btn.btn-outline.btn-secondary:hover{
+    background-color: green;
+    box-shadow: 2px 2px green;
+}
+
+
+.grey{
+    color: rgba(50,50,50,0.8);
+}
+
+
+#main-footer{
+    color: white;
+    margin-top: 5px;
+}
